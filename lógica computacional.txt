@@ -1,0 +1,24 @@
+inicio
+Digite o nome do Funcionário:
+Digite a idade do Funcionário:
+se idade for igual ou maior que 60 
+"Apresenta plano de aposentadoria para o funcionamento"
+se não
+"Sem plano de aposentadoria para o funcionário"
+Digite seu estado Civil: 
+Digite o numero de filhos: 
+se a pessoa tiver mais de 0 filhos
+"Funcionário com direito ao auxílio família"
+se não
+"Funcionário sem direito ao auxílio família"
+Digite o tempo de empresa (anos):
+Se o funcionário tiver mais ou igual a 5 anos de empresa
+"Funcionário com direito ao abono salarial"
+se não
+"Funcionário sem direito ao abono salarial"
+Digite o salário do funcionário: 
+Se o salário do Funcionário for maior que 4300
+"Funcionário com direito ao Seguro de Vida e Seguro"
+se não
+"Funcionário sem direito ao Seguro de Vida e Seguro Saúde"
+fim
